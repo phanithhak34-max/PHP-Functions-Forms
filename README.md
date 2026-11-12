@@ -8,6 +8,12 @@ PHP Functions & Forms
 📌 Project Overview
 This project is developed as a school assignment to practice PHP functions and HTML forms.
 It contains 10 interactive exercises, each demonstrating a different programming concept using PHP.
+## 📸 Project Preview
+
+![PHP Functions Dashboard](dashboard1.png)
+![PHP Functions Dashboard](2.png)
+![PHP Functions Dashboard](3.png)
+
  ✨ Features
 - 10 Interactive PHP Exercises
 - Responsive User Interface
