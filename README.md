@@ -1,23 +1,85 @@
-# PHP Functions & Forms
+PHP Functions & Forms
+<p align="center">
+  <strong>PHP Functions & Forms — School Assignment Project</strong>
+</p>
+<p align="center">
+  A collection of 10 interactive PHP exercises demonstrating functions, calculations, form handling, and input validation.
+</p>
+📌 Project Overview
+This project is developed as a school assignment to practice PHP functions and HTML forms.
+It contains 10 interactive exercises, each demonstrating a different programming concept using PHP.
+ ✨ Features
+- 10 Interactive PHP Exercises
+- Responsive User Interface
+- HTML Forms for User Input
+- PHP Functions and Calculations
+- Input Validation
+- Error Handling
+- Clean and Modern Dashboard Design
+📚 Exercises
+| No. | Exercise | PHP File |
+|---|---|---|
+| 01 | Add Two Numbers | function01.php |
+| 02 | Subtract Two Numbers | function02.php |
+| 03 | Multiply Two Numbers | function03.php |
+| 04 | Divide Two Numbers | function04.php |
+| 05 | Calculate Square | function05.php |
+| 06 | Calculate Cube | function06.php |
+| 07 | Check Even or Odd | function07.php |
+| 08 | Find Maximum | function08.php |
+| 09 | Convert Celsius to Fahrenheit | function09.php |
+| 10 | Calculate Rectangle Area | function10.php |
 
-An interactive, beginner-friendly set of ten PHP function and form exercises. The dashboard and exercise pages use a consistent responsive layout, and each form validates submitted values before displaying its result.
+🛠️ Technologies Used
 
-## Run with XAMPP
-1. Copy this folder into `C:\xampp\htdocs\`.
-2. Start Apache in XAMPP Control Panel.
-3. Open `http://localhost/PHP_Functions_Forms/index.php`.
-4. Select any function example and submit the form.
+- HTML5
+- CSS3
+- PHP
+- Apache (XAMPP)
 
-## Examples
-1. Add two numbers
-2. Subtract two numbers
-3. Multiply two numbers
-4. Divide two numbers (division by zero is prevented)
-5. Square a number
-6. Cube a number
-7. Check even or odd (whole numbers only)
-8. Find the maximum of two numbers
-9. Convert Celsius to Fahrenheit
-10. Calculate rectangle area
+🚀 Installation & Setup
 
-Each example keeps its original PHP function and uses a GET form. Inputs and calculated results are checked and safely escaped before being displayed.
+1. Download or clone this repository.
+2. Install XAMPP.
+3. Copy the project folder into:
+
+   `C:\xampp\htdocs\`
+
+4. Start Apache in XAMPP Control Panel.
+5. Open your browser and visit:
+
+   `http://localhost/PHP_Functions_Forms/index.php`
+
+📂 Project Structure
+
+```text
+PHP_Functions_Forms/
+│
+├── index.php
+├── function01.php
+├── function02.php
+├── function03.php
+├── function04.php
+├── function05.php
+├── function06.php
+├── function07.php
+├── function08.php
+├── function09.php
+├── function10.php
+└── README.md
+```
+
+👨‍💻 Author
+
+Hak Phanith
+
+School Assignment Project  
+PHP Functions & Forms
+
+📄 License
+
+This project is created for educational purposes.
+
+<p align="center">
+  © 2026 PHP Functions & Forms | Developed by Hak Phanith
+</p>
